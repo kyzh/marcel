@@ -30,6 +30,7 @@ TRANSLATIONS = {
     u'vos-papiers': 'login',
     u'déchéance': 'logout',
     u'sauvegarde': 'save',
+    u'chôme': 'rmi'
     # Options
     u'--aide': '--help',
     u'--marque': '--tag',
